@@ -1,4 +1,4 @@
-# Epic Custom Load Balancer
+# MVP of Epic Custom Load Balancer
 
 Kasiakou M.M.
 
@@ -20,7 +20,7 @@ Kasiakou M.M.
 ## 2. Technical Requirements
 
 ### 2.1 Performance & Scalability
-- **RPS Handling**: Minimum **50+ A** with low latency (<100ms).
+- **RPS Handling**: Minimum **50+ RPS** with low latency (<100ms).
 - **Algorithm Support**: Round Robin, Least Connections, and may be etc.
 ### 2.2 Storage & Configuration
 - **Database**: Stores server lists, routing rules, and health check logs.
